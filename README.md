@@ -5,7 +5,7 @@
 **Target role:** QA Manual Tester - Healthcare Claims  
 **Built for:** Healthcare claims SQA work involving requirements analysis, manual functional testing, SQL backend validation, regression, integration, SOAP/XML, EDI awareness, Jira defect handling, and HIPAA-sensitive test discipline.
 
-This repository is a hiring-ready portfolio project and a practical walkthrough of how I would perform the job. It uses a synthetic healthcare claims system so every artifact is safe to share publicly while still showing realistic QA judgment.
+This repository is a hiring-ready portfolio project and a practical walkthrough for healthcare claims manual QA work. It uses a synthetic healthcare claims system so every artifact is safe to share publicly while still showing realistic QA judgment.
 
 ## What This Project Proves
 
@@ -17,7 +17,7 @@ This repository is a hiring-ready portfolio project and a practical walkthrough 
 
 ## How The Work Fits The Job
 
-| Claritev requirement | Portfolio proof |
+| Role requirement | Portfolio proof |
 |---|---|
 | Analyze business requirements and technical specifications | [Job Walkthrough](docs/00-job-walkthrough.md), [QA Strategy](docs/02-qa-strategy.md), [Traceability Matrix](docs/04-requirements-traceability-matrix.md) |
 | Create test strategy, test plans, and test cases | [Test Plan](docs/03-test-plan.md), [Test Case Design](docs/05-test-case-design.md), [Claims Test Cases CSV](artifacts/test-cases/claims-test-cases.csv) |
