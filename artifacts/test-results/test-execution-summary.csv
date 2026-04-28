@@ -1,0 +1,15 @@
+Execution ID,Test Case ID,Requirement ID,Scenario,Status,Evidence,Defect ID,Notes
+EX-001,TC-001,BR-001,Clean in-network claim adjudicates to Paid,Pass,"UI check, SQL-001, SQL-005",,Synthetic claim CLM-5001 paid as expected
+EX-002,TC-002,BR-001,Claim detail matches stored claim header,Pass,"UI check, SQL-004",,UI and database values aligned
+EX-003,TC-003,BR-002,Inactive member claim denies,Pass,"UI check, SQL-002, SQL-006",,Denied with MEMBER_INACTIVE
+EX-004,TC-004,BR-003,Duplicate claim candidate is not paid,Pass,"UI check, SQL-003",,Duplicate candidate suspended for review
+EX-005,TC-005,BR-004,SOAP claim status response matches database,Pass,"SOAP-001, SQL-004",,SOAP response matches current status
+EX-006,TC-006,BR-005,Paid claim creates remittance record,Pass,"SQL-005, EDI-835-001",,Payment and remittance record present
+EX-007,TC-007,BR-006,Denied line requires denial reason,Pass,"UI check, SQL-006",,Denied line contains reason code
+EX-008,TC-008,BR-007,Paid amount cannot exceed allowed amount,Pass,SQL-007,,No overpayment rows returned
+EX-009,TC-009,BR-008,Inactive provider contract triggers denial or review,Pass,"UI check, SQL-008",,Inactive provider claim did not pay
+EX-010,TC-010,BR-009,Unauthorized role cannot view restricted member details,Pass,SEC-001,,Restricted fields masked in synthetic scenario
+EX-011,TC-011,BR-010,Claim status history retains lifecycle,Pass,SQL-009,,Header and status history aligned
+EX-012,TC-012,BR-011,Malformed SOAP request returns controlled error,Pass,SOAP-003,,Controlled error with no sensitive data
+EX-013,TC-013,BR-012,Regression pack for paid denied suspended adjusted claims,Pass,REG-001,,No critical or high regression failures
+

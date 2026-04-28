@@ -1,0 +1,86 @@
+# Justin Arndt
+
+Lancaster, PA | 717-808-3119 | justinarndt05@gmail.com  
+LinkedIn: [add LinkedIn URL] | GitHub: [add GitHub URL] | Portfolio: [add portfolio URL]
+
+## QA Manual Tester | Healthcare Claims | SQL Backend Testing | Regulated Systems QA
+
+Software QA and regulated systems professional with 8+ years of validation, quality, systems testing, and technical documentation experience in FDA-regulated pharmaceutical environments, plus 10 years supporting healthcare IT systems in a HIPAA-aware clinical setting. Experienced translating business requirements and technical specifications into test plans, test cases, traceability matrices, SQL-backed evidence, defect documentation, and retest packages. Strong fit for healthcare claims QA roles requiring manual functional testing, backend database validation, regression testing, integration testing, XML/SOAP awareness, Jira-style defect tracking, and disciplined handling of sensitive healthcare data.
+
+## Core QA Strengths
+
+- Manual software QA and SQA testing
+- Healthcare claims QA portfolio proof
+- Business requirements analysis
+- Technical specification review
+- Test strategy, test plans, and test cases
+- Requirements traceability matrices
+- Functional, regression, and integration testing
+- Web and GUI application testing
+- Backend database testing and SQL validation
+- Oracle SQL and SQL Server query concepts
+- Defect documentation, triage, retest, and closure
+- Jira-style defect tracking and evidence packages
+- XML, SOAP, SOAP UI, and web services testing concepts
+- Healthcare EDI awareness including 837, 835, 270/271, and 276/277 flows
+- HIPAA-aware documentation, PHI safeguards, and audit-ready evidence
+- Root cause analysis, CAPA, deviations, change control, and quality reporting
+- Cross-functional communication with QA, IT, business, operations, and vendor teams
+
+## Technical Skills
+
+**Testing and QA:** Manual testing, SQA, functional testing, regression testing, integration testing, backend testing, requirements-based testing, negative testing, boundary testing, user acceptance support, defect lifecycle management, retesting, validation evidence, test summaries  
+**Data and SQL:** SQL, complex joins, CTE concepts, aggregations, reconciliation queries, data integrity checks, ETL concepts, data migration support, SQL-based reporting, Oracle SQL concepts, SQL Server/T-SQL concepts  
+**Healthcare and Compliance:** Healthcare IT, HIPAA-aware workflows, PHI handling discipline, PACS, DICOM, clinical systems, medical terminology exposure, regulated documentation, audit trails, access controls, electronic signatures, data integrity  
+**Tools and Technologies:** Jira concepts, Git, GitHub, Markdown, XML, SOAP, SOAP UI concepts, REST concepts, Python, Power BI, Bash, R, AWS, Azure, Docker, Veeva Vault, Documentum, LIMS, chromatography data systems, environmental monitoring systems  
+
+## Professional Experience
+
+### Senior Technical Writer and Computer System Validation Engineer / QA Engineer
+
+GSK, contract via Alphanumeric Systems, Inc. | Marietta, PA | Jan 2016 - Apr 2024
+
+- Planned, authored, and executed requirements-based validation and SQA documentation for 10+ mission-critical laboratory and quality systems used in regulated manufacturing operations.
+- Created user requirements, functional specifications, test protocols, test cases, traceability matrices, IQ/OQ/PQ evidence, validation summaries, SOPs, change controls, deviation records, and defect-style investigation writeups.
+- Performed functional, regression, integration, configuration, access control, audit trail, electronic signature, backup/restore, upgrade, and data integrity testing across standalone and client-server systems.
+- Used SQL, Python, and structured data review to validate backend behavior, reconcile migrated records, investigate data anomalies, and support evidence-based quality decisions.
+- Reverse-engineered legacy SQL and VB-based tools to document system behavior, validate data flows, and support migration and modernization planning.
+- Documented defects, deviations, impact assessments, root cause, corrective actions, retest evidence, and effectiveness checks for QA and regulatory review.
+- Partnered with QA, IT, scientists, vendors, and business stakeholders to resolve issues, retest fixes, protect validated-state operation, and communicate quality risk clearly.
+- Standardized templates and documentation frameworks that reduced authoring time by 30% while improving consistency, review quality, and reuse across cross-functional teams.
+- Developed and maintained 150+ SOPs and controlled procedures covering administration, backup and restore, audit trail review, user access management, data integrity verification, and system support.
+- Supported migrations, software upgrades, and patching efforts under formal change control with zero unplanned downtime and clear post-change verification evidence.
+- Supported multiple audits with zero documentation-related findings during tenure.
+- Mentored junior engineers and cross-functional contributors on validation methodology, test evidence quality, technical documentation standards, and compliance expectations.
+
+### Technical Documentation Coordinator
+
+Lancaster General Health / Penn Medicine | Lancaster, PA | Apr 2004 - Jun 2014
+
+- Created technical procedures, user guides, support documentation, troubleshooting workflows, and continuity guidance for PACS, DICOM imaging systems, and healthcare IT workflows supporting 100+ clinical and technical users.
+- Documented system integrations, operational procedures, backup and recovery steps, access-related processes, and support workflows in a HIPAA-aware healthcare environment.
+- Collaborated with IT, clinical users, and support teams to clarify issues, document repeatable resolution paths, and improve system support consistency.
+- Built onboarding and standards documentation that reduced training time by 30%.
+- Created self-service support content that reduced support ticket volume by 40%.
+- Strengthened the ability to communicate with clinical users, technical teams, and operational stakeholders when system uptime, data accuracy, and clear instructions mattered.
+
+## Relevant Portfolio Project
+
+### Healthcare Claims Manual QA Portfolio
+
+Independent portfolio project | 2026
+
+- Built a GitHub-ready manual QA project that demonstrates how to test a synthetic healthcare claims workflow from requirement review through release recommendation.
+- Created a healthcare claims test strategy, test plan, requirements traceability matrix, manual test cases, SQL backend validation checks, Jira-style defect examples, HIPAA-safe test data strategy, EDI samples, and SOAP/XML service test examples.
+- Covered claim intake, eligibility, provider contract validation, adjudication, denial handling, claim status inquiry, remittance advice, regression risk, integration points, and load testing considerations.
+- Designed the project with synthetic data only, showing PHI discipline and safe public portfolio presentation for a high-risk healthcare data role.
+
+## Education
+
+Master of Science, Data Analytics / Data Science | Western Governors University | 2025  
+Bachelor of Science, Cybersecurity and Information Assurance | Western Governors University | 2024
+
+## ATS Keyword Set
+
+QA Manual Tester, Software Quality Assurance, SQA, healthcare claims, medical claims, claims processing, claim adjudication, backend testing, database testing, complex SQL, Oracle SQL, SQL Server, regression testing, integration testing, functional testing, Web testing, GUI testing, XML, SOAP, SOAP UI, web services testing, EDI, 837, 835, 270/271, 276/277, Jira, defect tracking, defect management, test strategy, test plan, test cases, traceability matrix, HIPAA, PHI, medical terminology, load testing, performance testing, quality assurance, root cause analysis, data analysis, production support, validation, regulated systems, audit trails, access controls, change control.
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clm="http://example.com/synthetic/claims">
+  <soapenv:Header>
+    <clm:CorrelationId>QA-CLM-5001-20260428</clm:CorrelationId>
+  </soapenv:Header>
+  <soapenv:Body>
+    <clm:GetClaimStatusResponse>
+      <clm:ClaimId>CLM-5001</clm:ClaimId>
+      <clm:ClaimStatus>PAID</clm:ClaimStatus>
+      <clm:ServiceDate>2026-03-15</clm:ServiceDate>
+      <clm:BilledAmount>175.00</clm:BilledAmount>
+      <clm:AllowedAmount>120.00</clm:AllowedAmount>
+      <clm:PaidAmount>96.00</clm:PaidAmount>
+      <clm:DenialReasonCode></clm:DenialReasonCode>
+      <clm:LastUpdated>2026-03-18T12:00:00Z</clm:LastUpdated>
+    </clm:GetClaimStatusResponse>
+  </soapenv:Body>
+</soapenv:Envelope>
+

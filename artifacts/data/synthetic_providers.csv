@@ -1,0 +1,6 @@
+provider_id,provider_type,network_status,contract_start,contract_end,synthetic_provider_label
+P-2001,Professional,IN_NETWORK,2024-01-01,,Synthetic Active In-Network Provider
+P-2002,Professional,TERMINATED,2023-01-01,2025-12-31,Synthetic Terminated Provider
+P-2003,Facility,OUT_OF_NETWORK,2024-01-01,,Synthetic Out-of-Network Facility
+P-2004,Professional,IN_NETWORK,2025-01-01,,Synthetic Specialist Provider
+

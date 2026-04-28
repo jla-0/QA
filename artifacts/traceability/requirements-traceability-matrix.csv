@@ -1,0 +1,14 @@
+Requirement ID,Requirement,Acceptance Criteria,Test Case IDs,SQL Check,Integration Check,Priority,Status,Defect Link
+BR-001,System accepts a valid professional claim for an active member and active provider,"Claim is accepted, adjudicated, stored, and visible with Paid status when all rules pass","TC-001, TC-002",SQL-001,SOAP-001,High,Ready,
+BR-002,System denies claim when member is inactive on service date,"Claim is denied, paid amount is zero, and denial reason is present",TC-003,SQL-002,SOAP-002,High,Ready,
+BR-003,System flags duplicate claim candidates before payment,"Potential duplicate claim is suspended or routed for review and no payment is issued",TC-004,SQL-003,,High,Ready,
+BR-004,System returns accurate claim status through SOAP inquiry,"SOAP response status, amounts, and denial reason match database and UI",TC-005,SQL-004,SOAP-001,High,Ready,
+BR-005,System creates remittance record for paid claims,"Paid claims have a payment record and remittance identifier",TC-006,SQL-005,EDI-835-001,High,Ready,
+BR-006,System requires denial reason for denied claim lines,"Every denied line has a reason code visible to authorized users",TC-007,SQL-006,SOAP-002,High,Ready,
+BR-007,System prevents paid amount from exceeding allowed amount,"Paid amount is less than or equal to allowed amount at claim and line level",TC-008,SQL-007,,Critical,Ready,
+BR-008,System validates provider contract active on service date,"Inactive provider contract creates denial or review status",TC-009,SQL-008,,High,Ready,
+BR-009,System masks or restricts PHI by role,"Unauthorized role cannot view restricted member fields",TC-010,,SEC-001,Critical,Ready,
+BR-010,System preserves status history for claim lifecycle,"Latest status is correct and historical transitions are retained",TC-011,SQL-009,SOAP-001,Medium,Ready,
+BR-011,System rejects malformed SOAP request safely,"Service returns controlled validation error with no stack trace or PHI",TC-012,,SOAP-003,Medium,Ready,
+BR-012,System supports regression of paid denied suspended and adjusted flows,"Regression pack executes with no critical or high failures",TC-013,SQL-010,REG-001,High,Ready,
+

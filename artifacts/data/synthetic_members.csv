@@ -1,0 +1,6 @@
+member_id,plan_id,effective_date,termination_date,status,synthetic_member_label
+M-1001,PLAN-A,2025-01-01,,ACTIVE,Synthetic Active Member
+M-1002,PLAN-A,2024-01-01,2025-12-31,INACTIVE,Synthetic Inactive Member
+M-1003,PLAN-B,2026-05-01,,FUTURE_ACTIVE,Synthetic Future Effective Member
+M-1004,PLAN-C,2025-06-01,,ACTIVE,Synthetic High Deductible Member
+

@@ -1,0 +1,4 @@
+payment_id,claim_id,payment_amount,payment_date,remittance_id
+PAY-7001,CLM-5001,96.00,2026-03-18,RA-8001
+PAY-7002,CLM-5005,140.00,2026-03-23,RA-8002
+

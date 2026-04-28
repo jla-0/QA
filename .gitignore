@@ -1,0 +1,16 @@
+# Local editor and generated files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Rendered QA artifacts
+rendered-docx/
+docx-render/
+*.pdf
+
+# Local environment files
+.env
+.venv/
+node_modules/
+

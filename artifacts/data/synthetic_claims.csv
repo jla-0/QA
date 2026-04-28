@@ -1,0 +1,7 @@
+claim_id,member_id,provider_id,service_date,claim_status,billed_amount,allowed_amount,paid_amount,duplicate_flag,scenario
+CLM-5001,M-1001,P-2001,2026-03-15,PAID,175.00,120.00,96.00,N,Clean in-network professional claim
+CLM-5002,M-1002,P-2001,2026-03-15,DENIED,175.00,0.00,0.00,N,Inactive member denial
+CLM-5003,M-1001,P-2001,2026-03-15,SUSPENDED,175.00,120.00,0.00,Y,Duplicate claim candidate
+CLM-5004,M-1001,P-2002,2026-03-15,DENIED,210.00,0.00,0.00,N,Inactive provider contract denial
+CLM-5005,M-1004,P-2004,2026-03-20,ADJUSTED,300.00,220.00,140.00,N,Adjusted allowed amount scenario
+

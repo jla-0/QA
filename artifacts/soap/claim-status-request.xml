@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clm="http://example.com/synthetic/claims">
+  <soapenv:Header>
+    <clm:CorrelationId>QA-CLM-5001-20260428</clm:CorrelationId>
+  </soapenv:Header>
+  <soapenv:Body>
+    <clm:GetClaimStatusRequest>
+      <clm:ClaimId>CLM-5001</clm:ClaimId>
+      <clm:MemberId>M-1001</clm:MemberId>
+      <clm:RequestingSystem>QA-Portfolio</clm:RequestingSystem>
+    </clm:GetClaimStatusRequest>
+  </soapenv:Body>
+</soapenv:Envelope>
+
